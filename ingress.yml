@@ -23,4 +23,5 @@ spec:
                 name: nginx-app-service
                 port:
                   number: 8000
+                  
 
