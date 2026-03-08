@@ -2,7 +2,7 @@ kind: ServiceAccount
 apiVersion: v1
 metadata: 
   name: admin-user
-  namespace: kubernetes-dashboard 
+  namespace: kubernetes-dashboard
 
 
 ---
